@@ -71,8 +71,8 @@
 <b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b>Windows 11</li>
-	      <li><b>Laptop: </b> DELL Inspiron 2019</li>
-  	    <li><b>Browser: </b> Safari & Chrome</li>
+	      <li><b>Laptop: </b> Lenovo ideapad Slim 5</li>
+  	    <li><b>Browser: </b> Firefox & Chrome</li>
 	      <li><b>Code Editor:</b> Jupyter Notebook & VSCode ❤</li>
 	</ul>	
 
