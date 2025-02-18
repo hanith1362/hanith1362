@@ -14,7 +14,7 @@
 
 
 
-[![Linkedin: Tummalapallihanith](https://img.shields.io/badge/-tummalapallihanith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/syedhassanulhaq)](https://www.linkedin.com/in/hanithtummalapalli/)
+[![Linkedin: Tummalapallihanith](https://img.shields.io/badge/-tummalapallihanith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/Tummalapallihanith)](https://www.linkedin.com/in/hanithtummalapalli/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/hanith_chowdary_/) 
 [![GitHub hanith1362](https://img.shields.io/github/followers/hanith1362?label=follow&style=social)](https://github.com/hanith1362)
 
