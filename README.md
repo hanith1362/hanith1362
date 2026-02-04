@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanith1362&label=Profile%20views&color=0e75b6&style=flat" alt="hanith" /> </p>
 
 
-- 📫 How to reach me **hanithtummalapalli1362@gmail.com**
+- 📫 How to reach me **thanith1362@gmail.com**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/hanith1362/">My Github Profile</a>
 
