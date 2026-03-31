@@ -4,7 +4,7 @@
 
 ### **Engineering data systems that scale, perform, and drive decisions in real time.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=56CCF2&center=true&vCenter=true&width=980&lines=Building+Production-Grade+Data+Pipelines;Optimizing+SQL+Performance+for+High-Impact+Systems;Delivering+AI-Driven+Data+Experiences+at+Scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=56CCF2&center=true&vCenter=true&width=980&lines=Building+Scalable+Data+Systems;Real-Time+Data+Engineering;AI-Driven+Pipelines)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/hanithtummalapalli/">
@@ -45,7 +45,7 @@ My work centers on **production thinking**: resilient ETL design, real-time proc
 
 ## 🧠 Tech Stack
 
-### 📊 Data
+### 📊 Data Engineering
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -79,6 +79,7 @@ Built a full-stack simulation platform that mimics live market behavior with dyn
 
 - Engineered real-time trade and price update flows for responsive simulation behavior
 - Designed for scalability to support continuous market-state changes and user interactions
+- Delivered interactive portfolio dashboards for real-time position and performance visibility
 - Integrated AI-driven insights to strengthen decision support and portfolio strategy
 
 ---
