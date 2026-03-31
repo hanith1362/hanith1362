@@ -1,35 +1,45 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,35:203A43,70:2C5364,100:00C9FF&text=Hanith%20Tummalapalli&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Data%20Science%20Graduate%20Student%20%7C%20Data%20Engineering%20%26%20AI%20Systems&descAlignY=60&descAlign=50&animation=fadeIn" alt="Header Banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&section=header&text=Hanith%20Tummalapalli&fontSize=54&fontAlignY=36&desc=Data%20Engineering%20%7C%20Real-Time%20Data%20Systems%20%7C%20AI-Driven%20Pipelines&descAlignY=58&animation=fadeIn&color=0:0B1020,25:1B2A4A,55:244B8A,80:2F80ED,100:56CCF2&fontColor=ffffff" alt="Header Banner" />
 
-### **Designing high-performance data systems that turn complex data into intelligent, scalable products.**
+### **Engineering data systems that scale, perform, and drive decisions in real time.**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C9FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Data+Systems;Engineering+Real-time+Pipelines+for+Actionable+Insights;Crafting+AI-Driven+Solutions+for+Modern+Products)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1000&color=56CCF2&center=true&vCenter=true&width=980&lines=Building+Production-Grade+Data+Pipelines;Optimizing+SQL+Performance+for+High-Impact+Systems;Delivering+AI-Driven+Data+Experiences+at+Scale)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/hanithtummalapalli/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:thanith1362@gmail.com">
-    <img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/hanith1362">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=hanith1362&style=for-the-badge&color=00C9FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hanith1362&style=for-the-badge&color=56CCF2" alt="Profile views" />
 </p>
 
-<img src="https://img.shields.io/badge/Open%20to%20Data%20Engineering%20Internship%20Opportunities-00C853?style=for-the-badge&logo=target&logoColor=white" alt="Open to internship opportunities" />
+<img src="https://img.shields.io/badge/Open%20to%20Data%20Engineering%20Internship%20Opportunities%20%E2%80%93%20Summer%202026-16A34A?style=for-the-badge&logo=target&logoColor=white" alt="Open to Data Engineering Internship Opportunities – Summer 2026" />
 
 </div>
 
 ---
 
-## ✨ About
+## 🚀 About Me
 
-I’m **Hanith Tummalapalli**, a **Data Science Graduate Student** focused on **Data Engineering and AI Systems**.
+I’m **Hanith Tummalapalli** — a data engineering-focused builder delivering scalable pipelines, high-performance query systems, and AI-enabled data products.
 
-I build systems that prioritize **reliability, scalability, and decision velocity** — from real-time market simulators to natural-language data interfaces. My work is centered on transforming raw data into operational intelligence that teams can trust.
+My work centers on **production thinking**: resilient ETL design, real-time processing patterns, and analytics systems that accelerate business decisions with trustworthy data.
+
+---
+
+## 🏗️ What I Build
+
+- **Pipeline-first architectures** that improve reliability and reduce operational friction
+- **High-performance data layers** with SQL optimization (delivered ~**30%** faster query performance)
+- **Robust ETL systems** that reduced pipeline failure rates by ~**40%**
+- **AI-driven data interfaces** that make complex data access intuitive for non-technical users
+- **Large-scale data workflows** validated on projects handling **200K+ records**
 
 ---
 
@@ -39,82 +49,97 @@ I build systems that prioritize **reliability, scalability, and decision velocit
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### ☁️ Cloud
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ### ⚙️ Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-### ☁️ Cloud
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
-
 ### 🛠️ Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## 🌟 Featured Projects
 
-### 1) 📈 Stock Exchange Simulator
-**Django + React + Real-time Trading + AI Insights**
+### 1) 📈 Real-Time Stock Exchange Simulator
+**Django + React + Real-Time Trading + AI Insights**
 
-A full-stack market simulation platform engineered for live trading behavior and decision intelligence.
+Built a full-stack simulation platform that mimics live market behavior with dynamic updates and portfolio intelligence.
 
-- Processes dynamic stock updates in real time for responsive market simulation
-- Provides AI-driven insights with portfolio tracking to support smarter trading decisions
-- Designed as a scalable architecture combining fast UI interactions with reliable backend state management
-
----
-
-### 2) 🤖 DataMate *(Hackathon Winner)*
-**AI-Powered Natural Language to Database Query System**
-
-A productivity-focused interface that lets users query databases in natural language across multiple database backends.
-
-- Converts plain English questions into actionable database queries using AI interpretation
-- Supports multi-database querying to improve accessibility for cross-functional teams
-- Awarded at hackathon for combining practical utility with strong system design
+- Engineered real-time trade and price update flows for responsive simulation behavior
+- Designed for scalability to support continuous market-state changes and user interactions
+- Integrated AI-driven insights to strengthen decision support and portfolio strategy
 
 ---
 
-### 3) 📦 Inventory Tracker
-**End-to-End Data Tracking + Consistency + Reporting**
+### 2) 🤖 DataMate — AI Query Engine *(Hackathon-Winning Build)*
+**Natural Language → SQL + Multi-Database Integration**
 
-A reliable inventory intelligence system focused on operational correctness and traceable reporting.
+Developed an AI-powered query assistant that translates business questions into executable SQL.
 
-- Maintains data consistency across the inventory lifecycle
-- Improves reporting quality for better planning and replenishment decisions
-- Built to support dependable, repeatable data workflows for business operations
+- Reduced query turnaround time by ~**70%** for analyst and business workflows
+- Enabled non-technical users to access data without writing SQL manually
+- Built a multi-database architecture to support broader data ecosystem usability
 
 ---
 
-## 🧪 Currently Building / Learning
+### 3) 🏥 Healthcare Data Pipeline
+**Azure ADF + Synapse + Data Governance**
 
-- ⚡ **Databricks Auto Loader** for robust ingestion patterns
-- 🌊 **Streaming Systems** for real-time data movement and transformation
-- 🧠 **AI Agents** for autonomous data workflows and intelligent orchestration
+Designed and implemented healthcare ETL pipelines for trusted analytics and operational visibility.
+
+- Built ingestion and transformation flows with Azure Data Factory and Synapse
+- Enforced data quality and governance controls for reliable downstream reporting
+- Delivered analytics-ready datasets powering decision-focused dashboards
+
+---
+
+### 4) 💳 Financial Data Warehouse
+**Star Schema + dbt + Snowflake + Power BI**
+
+Architected a modern analytics warehouse to improve financial reporting speed and consistency.
+
+- Designed star-schema models optimized for BI and executive analytics
+- Implemented dbt pipelines for modular, testable, and maintainable transformations
+- Integrated Snowflake with Power BI to deliver faster, cleaner business insights
+
+---
+
+## 🔬 Currently Building
+
+- ⚡ **Databricks Auto Loader** for resilient ingestion at scale
+- 🌊 **Streaming Systems** for low-latency, event-driven pipelines
+- 🧠 **AI Agents** for intelligent workflow automation across data operations
 
 ---
 
 ## 💡 What I Bring
 
-- **Systems Thinking:** I design for durability, observability, and long-term maintainability
-- **Scalability Mindset:** I optimize pipelines and architectures to handle growth gracefully
-- **Problem-Solving Discipline:** I break down ambiguous requirements into reliable data products
-- **Product Orientation:** I connect technical design to measurable user and business impact
+- **System Thinking:** I design end-to-end data systems for resilience, observability, and maintainability
+- **Performance Mindset:** I optimize critical SQL and ETL paths for measurable speed and stability gains
+- **Scalability Discipline:** I build architectures that remain reliable as data volume and complexity grow
+- **Execution Focus:** I translate business ambiguity into production-ready engineering outcomes
 
 ---
 
-## 📊 GitHub Insights
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=hanith1362&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub stats" width="420" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanith1362&langs_count=8&layout=compact&theme=tokyonight&count_private=true&hide_border=true&hide=Jupyter%20Notebook,HTML" alt="Top languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanith1362&layout=compact&langs_count=8&theme=tokyonight&count_private=true&hide_border=true&hide=Jupyter%20Notebook,HTML" alt="Top languages" height="165" />
 
 <br/>
 
@@ -126,11 +151,11 @@ A reliable inventory intelligence system focused on operational correctness and 
 
 <div align="center">
 
-### 🎯 Summer 2026 Goal
+### 🎯 Open to Data Engineering Internship Opportunities – Summer 2026
 
-**Seeking a Data Engineering Internship** to contribute to high-impact teams building modern data infrastructure, real-time platforms, and AI-enabled systems.
+Ready to contribute to teams building high-scale data platforms, real-time systems, and AI-enabled products.
 
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hanithtummalapalli/)
-[![Email Me](https://img.shields.io/badge/Email%20Me-121212?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanith1362@gmail.com)
+[![Email Me](https://img.shields.io/badge/Email%20Me-111827?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanith1362@gmail.com)
 
 </div>
