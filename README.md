@@ -98,15 +98,6 @@ A modern analytics warehouse improving financial reporting speed and consistency
 - **Scalability Discipline** — architectures that stay reliable as data volume and complexity grow
 - **Execution Focus** — translating business ambiguity into production-ready engineering outcomes
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hanith1362&show_icons=true&hide_border=true&theme=tokyonight&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanith1362&layout=compact&hide_border=true&theme=tokyonight"/>
-
-</div>
-
 ## Open to Full-Time Data Engineering & AI Engineering Roles
 
 Ready to contribute to teams building high-scale data platforms, real-time systems, and AI-enabled products.
